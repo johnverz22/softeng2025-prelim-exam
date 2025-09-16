@@ -1,5 +1,4 @@
-# Using a computer, perform the following task involving Git. (20pts)
-- 1. Clone the repository https://github.com/johnverz22/softeng2025-prelim-exam.git to your local working computer.
-- 2. Create a text file with your last name as the filename, for instance, 'LastName.txt.' In this file, share your thoughts on the role or career you foresee for yourself in the future within the IT industry, and include compelling reasons to justify your choice."
-- 3. Create a new branch named 'exam/your-last-name,' stage and commit the text file within this branch, and subsequently push your branch to the repository.
+# Rhickwel Flores Valdez @rhickwel-valdez
 
+**Dream:**  
+I see myself becoming a Full-Stack Developer who can design and develop projects on any platform. I want this role because I find learning anything that is coding related enjoyable at first I didn't know where to focus on because I enjoy building mobile, desktop, cybersecurity, designing, backend, and etc. I really want to do all of them not because I want to master them all but because I find enjoyment in learning them and applying them to projects.
