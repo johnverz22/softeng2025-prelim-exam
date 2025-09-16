@@ -1,5 +1,10 @@
-# Using a computer, perform the following task involving Git. (20pts)
-- 1. Clone the repository https://github.com/johnverz22/softeng2025-prelim-exam.git to your local working computer.
-- 2. Create a text file with your last name as the filename, for instance, 'LastName.txt.' In this file, share your thoughts on the role or career you foresee for yourself in the future within the IT industry, and include compelling reasons to justify your choice."
-- 3. Create a new branch named 'exam/your-last-name,' stage and commit the text file within this branch, and subsequently push your branch to the repository.
+# John Michael A. Hufano / @username
 
+---
+
+**Dream:**
+
+I envision myself becoming a Software Architect who designs scalable and efficient systems that empower businesses and improve user experiences.  
+I am drawn to this role because it combines deep technical knowledge with creativity and strategic thinking. I enjoy solving complex problems and envisioning how different technologies can work together to build innovative solutions.  
+My goal is to create architectures that not only meet current needs but are also flexible enough to adapt to future challenges. I want to collaborate closely with development teams to ensure the vision is implemented effectively while maintaining high standards of quality and performance.  
+With the rapid evolution of technology, I believe strong architecture is crucial for sustainable growth, and I am passionate about contributing to building systems that make a lasting impact.
