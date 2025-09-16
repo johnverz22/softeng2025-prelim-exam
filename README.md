@@ -1,6 +1,4 @@
-# Adrian Bergantin / ads-10
-
----
+# Adrian Bergantin / @ads-10
 
 **Dream:**
 
