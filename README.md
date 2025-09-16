@@ -1,5 +1,7 @@
-# Using a computer, perform the following task involving Git. (20pts)
-- 1. Clone the repository https://github.com/johnverz22/softeng2025-prelim-exam.git to your local working computer.
-- 2. Create a text file with your last name as the filename, for instance, 'LastName.txt.' In this file, share your thoughts on the role or career you foresee for yourself in the future within the IT industry, and include compelling reasons to justify your choice."
-- 3. Create a new branch named 'exam/your-last-name,' stage and commit the text file within this branch, and subsequently push your branch to the repository.
+# Mary Anne Louise Mabutas / @maryannelouise
 
+**Dream:**
+
+I see myself pursuing a career as a UI/UX designer, focusing on creating unique and engaging digital experiences that make technology enjoyable for users. I am passionate about designing interfaces that not only look appealing but also enhance usability. At the same time, I am eager to explore the field of Database Management to gain a deeper understanding of how data is organized and utilized. This knowledge will help me support my design work by ensuring systems are efficient, reliable, and data-driven.
+
+By combining creativity with technical expertise, I aim to develop solutions that are both visually compelling and functionally wise, improving the overall user experience. The IT industry is full of people who are eager to create new experiences for others. And I am one of them. I believe that the collaboration of design and data is where the future of technology lies. With the rapid growth of digital platforms, users expect not only aesthetic designs but also seamless interactions powered by smart decisions. By mastering both UI/UX and database management, I want to be a bridge that connects the art of design with the science of data.
