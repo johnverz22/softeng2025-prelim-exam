@@ -1,5 +1,11 @@
-# Using a computer, perform the following task involving Git. (20pts)
-- 1. Clone the repository https://github.com/johnverz22/softeng2025-prelim-exam.git to your local working computer.
-- 2. Create a text file with your last name as the filename, for instance, 'LastName.txt.' In this file, share your thoughts on the role or career you foresee for yourself in the future within the IT industry, and include compelling reasons to justify your choice."
-- 3. Create a new branch named 'exam/your-last-name,' stage and commit the text file within this branch, and subsequently push your branch to the repository.
+Jibreel Quimson / @rimuru0628
+
+Dream:
+I see myself as a busines owner and an working in a company 
+
+i want this role because it will help me grow and enhance my communication with others and enjoy working with other people as much as i enjoy working with my sysstems and project in our company
+
+My goal is to guide project from to completion and i also want to help people grow like i did and guide and motivate others so they can grow and learn how fun it is to be a developer
+
+The IT industry is growing fast, and companies need people who can bridge the gap between technical experts and business goals. I believe this is where I can add the most value.
 
