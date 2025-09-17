@@ -1,7 +1,3 @@
-Follow provided instruction.
-
-Make sure to accept invitation to collab in this repo.
-
 ## Name: Elijah Garrence Dayao Dela Rosa / Github Username: ElijahDelaRosa
 
 ### Dream
