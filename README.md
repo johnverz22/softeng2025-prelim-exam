@@ -4,8 +4,6 @@ Make sure to accept invitation to collab in this repo.
 
 ## Name: Elijah Garrence Dayao Dela Rosa / Github Username: ElijahDelaRosa
 
----
-
 ### Dream
 I see myself becoming a software engineer, specifically developing a new tooling software for developing applications. 
 I chose this role because I want to develop tools and software that can provide improvements to peoples activities that uses computers. I enjoy the process of software development, and learning new techniques or adapting new process for my development journey.
