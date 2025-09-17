@@ -1,4 +1,4 @@
-## Name: Elijah Garrence Dayao Dela Rosa / Github Username: ElijahDelaRosa
+## Name: Elijah Garrence Dayao Dela Rosa / @ElijahDelaRosa
 
 ### Dream
 I see myself becoming a software engineer, specifically developing a new tooling software for developing applications. 
