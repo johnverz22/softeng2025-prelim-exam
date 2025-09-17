@@ -1,3 +1,5 @@
-Follow provided instruction.
+#Kathrina Carla Villar Oriente / Kathoollllll
 
-Make sure to accept invitation to collab in this repo.
+###Dream:###
+I see myself becoming a Software Developer who leads a team. I want this role so I can use what I learned here in school. And aslo to earn a lot of money. 
+
